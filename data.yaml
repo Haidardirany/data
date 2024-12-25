@@ -1,0 +1,5 @@
+train: ../train/image
+val: ../test/image
+
+nc: 15
+names: ['one','two','three','four','five','six','seven','eight','nine','punch','span','horiz','collab','xsign','timeout']
